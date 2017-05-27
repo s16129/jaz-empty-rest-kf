@@ -7,7 +7,7 @@ UWAGA! Nowo wysyłane obiekty nie mają parametru 'id'!
 ### Film
 Obiekt wysyłany lub aktualizowany nie ma parametrów 'id', 'rating' oraz 'comments'
 
-   {
+    {
     "id" : 1,
     "name" : "Godfather",
     "polishName" : "Ojciec chrzestny",
