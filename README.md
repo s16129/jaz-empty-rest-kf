@@ -26,6 +26,18 @@ Obiekt wysyłany lub aktualizowany nie ma parametrów 'id', 'rating' oraz 'comme
     ]
     }
 
+Przykładowy obiekt do testów:
+
+    {
+    "name" : "Godfather",
+    "polishName" : "Ojciec chrzestny",
+    "worldPremiere" : "2016-01-01",
+    "polishPremiere" : "2016-02-03",
+    "director" : "Adam Mialczynski",
+    "writer" : "Jonasz Goldsztajn",
+    "producer" : "Mili Entr."
+    }
+
     
 ### Aktor
 
